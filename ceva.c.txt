@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+//citire
+
+//adunare
+
+//inmultire
+
+int main(){
+
+
+
+return 0;
+}
